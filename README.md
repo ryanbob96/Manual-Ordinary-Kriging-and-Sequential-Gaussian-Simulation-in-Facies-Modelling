@@ -1,0 +1,4 @@
+# Manual-Ordinary-Kriging-and-Sequential-Gaussian-Simulation-in-Facies-Modelling
+Manual Ordinary Kriging and Sequential Gaussian Simulation for Facies Model
+
+both Ordinary Kriging and Sequential Gaussian Simulation giving us a representative spatial distribution of Facies A and Faces B in the sense of statistical and mathematical. The boundary created to separate the Facies A and Facies B produce a mathematically sufficient categorical facies map. The special use of Sequential Gaussian Simulation with a basis of Ordinary Kriging also giving us a more "Potential Correct" to the spatial distribution in nature. In the end, all of these statistical and mathematical things are still in the corridor of a model, which will always be wrong compared to nature. However, it is still helpful and useful for us if we use it properly
